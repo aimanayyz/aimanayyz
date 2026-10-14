@@ -1,32 +1,21 @@
-# <p align="center">👋 Hi there, I'm Aiman Ayyaz</p>
+# 👋 Hi, I'm Aiman Ayyaz
 
-<p align="center">
+<p align="left">
   <img src="https://demolab.com" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://shields.io" alt="CGPA Badge" />
-  <img src="https://shields.io" alt="Location Badge" />
-</p>
+- 🎓 **BS Software Engineering Student** @ NUML (CGPA: 3.98)
+- 💼 **Full-Stack AI Developer Intern** @ Codecelix
+- 📍 Islamabad, Pakistan
 
 ---
 
-### 🌌 About Me
-Highly motivated **Software Engineering student** with an exceptional **3.98 CGPA**. Proficient in crafting robust web ecosystems and cross-platform mobile experiences. I specialize in injecting intelligent AI capabilities into applications via third-party APIs while architecture-secure backends.
-
----
-
-### 🛠️ Tech Stack & Ecosystem
+### 🛠️ Tech Stack
 
 <p align="left">
-  <!-- Languages -->
   <img src="https://shields.io" />
   <img src="https://shields.io" />
   <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <br/>
-  <!-- Frameworks & DBs -->
   <img src="https://shields.io" />
   <img src="https://shields.io" />
   <img src="https://shields.io" />
@@ -37,36 +26,19 @@ Highly motivated **Software Engineering student** with an exceptional **3.98 CGP
 
 ---
 
-### 💼 Experience
+### 📊 GitHub Stats
+*(Make sure to change `YOUR_USERNAME` to your actual GitHub username below so the card works)*
 
-- ⚡ **Codecelix** — *Full-Stack AI Developer Intern* 
-- 🚀 **Code Alpha** — *Frontend Development Intern* 
-- 🌐 **Freelance Web Developer** — *Remote Software Solutions*
-
----
-
-### 🚀 Featured Production Projects
-
-* **🛒 EMZA Store** — Engineered a production-ready, client-facing e-commerce web platform using the MERN stack featuring secure user authentication.
-* **🏥 AI Healthcare Module** — Developed a healthcare management system with pharmacy modules, secure API logic, and active GitHub collaboration.
-* **🔔 VendorHub AI** — Built a real-time event-driven Notification Module executing operational logic for RFQs, quotations, and contracts.
-
----
-
-### 📊 Real-time GitHub Analytics
-
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" alt="Top Languages" width="350" />
+<p align="left">
+  <img src="https://vercel.app" alt="GitHub Stats" width="400" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me
+
+- 📧 **Email:** aimanayyaz753@gmail.com
+- 💼 **LinkedIn:** [://linkedin.com](https://linkedin.com)
 
 <p align="left">
   <a href="mailto:aimanayyaz753@gmail.com"><img src="https://shields.io" /></a>
